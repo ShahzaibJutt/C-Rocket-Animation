@@ -102,10 +102,10 @@ int main(int argc, char const *argv[]) {
 		//removing the thrust
 		for(line=0; line<30; line++)
 		{
-			if(line==15)
-			{
-				printf("\t\t\t\t\t\tRocket has Gone!\n");
-			}
+				if(line==15)
+				{
+						printf("\t\t\t\t\t\tRocket has Gone!\n");
+				}
 				printf("\n");
 		}
 		return 0;

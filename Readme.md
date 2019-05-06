@@ -6,7 +6,10 @@ the cursor will not remain at center anymore.</p>
 <p>1_Fix the cursor positioning at center during resize.<br>
 2_Better way of producing thrust. I mean not use many loops.</p>
 <h1><a id="Preview_12"></a>Preview</h1>
+<h2>Rocket V1</h2>
 <p><a href="https://drive.google.com/file/d/1ewbpNADP01lys6rfJgBq7tzVyk3jSGhZ/view?usp=sharing">https://drive.google.com/file/d/1ewbpNADP01lys6rfJgBq7tzVyk3jSGhZ/view?usp=sharing</a></p>
+<h2>Rocket V2</h2>
+<p><a href="https://drive.google.com/file/d/1FU_3ELBRcgazzS53gYQGeLzm6LgUkuf6/view?usp=sharing">https://drive.google.com/file/d/1FU_3ELBRcgazzS53gYQGeLzm6LgUkuf6/view?usp=sharing</a></p>
 <h1><a id="Changelog_Rocket_v2_15"></a>Changelog Rocket (v2)</h1>
 <ul>
 <li>Fix terminal size by inputting columns size from user.</li>
