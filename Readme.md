@@ -9,6 +9,6 @@ the cursor will not remain at center anymore.</p>
 <p><a href="https://drive.google.com/file/d/1ewbpNADP01lys6rfJgBq7tzVyk3jSGhZ/view?usp=sharing">https://drive.google.com/file/d/1ewbpNADP01lys6rfJgBq7tzVyk3jSGhZ/view?usp=sharing</a></p>
 <h1><a id="Changelog_Rocket_v2_15"></a>Changelog Rocket (v2)</h1>
 <ul>
-<li>Fix terminal size by inputting columns from user.</li>
+<li>Fix terminal size by inputting columns size from user.</li>
 <li>Change printf with putchar.</li>
 </ul>
